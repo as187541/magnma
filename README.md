@@ -8,7 +8,7 @@ i hope you guys like it and i am open to suggestions.
 
 ## Connect with me: ##
 
-<a href="(https://www.linkedin.com/in/aryansingh1875/)">
+<a href="https://www.linkedin.com/in/aryansingh1875/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
 
