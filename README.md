@@ -1,5 +1,5 @@
 This is my freelance work for website development of an education consultancy known as Magnma Institute.
-i hope you guys like it and i am open to suggestions.
+I hope you guys like it and i am open to any suggestions and insights.
 
 # Magnma Institute
 - A responsive and interactive education website for educational consultancy and other special purposes.
