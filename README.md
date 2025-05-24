@@ -13,7 +13,6 @@ i hope you guys like it and i am open to suggestions.
 </a>
 
 
-<a href="(https://www.instagram.com/_aryansingh._._/)">
+<a href="https://www.instagram.com/_aryansingh._._/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/512px-Instagram.svg.png?20170725025253" width="45" height="45"/>
 </a>
-
